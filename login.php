@@ -1,5 +1,5 @@
 <div>
-    // this is login php file
+    <!-- // this is login php file -->
     <div class="w3-card-4 w3-margin">
         <div class="w3-container w3-brown">
             <h1 class="w3-center">Login Page</h1>
